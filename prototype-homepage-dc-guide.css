@@ -14,3 +14,10 @@ ul li{
   font-size: 20px;
   color: maroon
 }
+
+a {
+  background-color: maroon;
+  color: white;
+  padding: 0.18em 0.45em;
+  text-decoration: none;
+}
