@@ -1,0 +1,11 @@
+#homepage-heading {
+	font-family: cursive; 
+	font-family: palatino;
+    text-transform: capitalize;
+}
+
+ul li{
+  font-family: palatino;
+  font-weight: bolder;
+  font-size: 20px;
+}
