@@ -21,3 +21,32 @@ a {
   padding: 0.18em 0.45em;
   text-decoration: none;
 }
+
+#coffeeshop-title {
+margin-top: 30px;
+margin-bottom: 5px;
+}
+
+#paragraph{
+	margin-top: 10px;
+}
+
+#bb {
+	margin-top: 30px;
+	margin-bottom: 5px;"
+}
+
+.imagebb {
+	width:400px;
+	height:300px;
+}
+
+.imagebj {
+	width:400px;
+	height:295px;
+}
+
+.imagelpq {
+	width:400px;
+	height:280px;
+}
