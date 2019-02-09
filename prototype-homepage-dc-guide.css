@@ -1,7 +1,7 @@
 #homepage-heading {
-	font-family: cursive; 
-	font-family: palatino;
-    text-transform: capitalize;
+  font-family: cursive; 
+  font-family: palatino;
+  text-transform: capitalize;
 }
 
 h3 {
@@ -23,30 +23,30 @@ a {
 }
 
 #coffeeshop-title {
-margin-top: 30px;
-margin-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 5px;
 }
 
 #paragraph{
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 #bb {
-	margin-top: 30px;
-	margin-bottom: 5px;"
+  margin-top: 30px;
+  margin-bottom: 5px;"
 }
 
 .imagebb {
-	width:400px;
-	height:300px;
+  width:400px;
+  height:300px;
 }
 
 .imagebj {
-	width:400px;
-	height:295px;
+  width:400px;
+  height:295px;
 }
 
 .imagelpq {
-	width:400px;
-	height:280px;
+  width:400px;
+  height:280px;
 }
