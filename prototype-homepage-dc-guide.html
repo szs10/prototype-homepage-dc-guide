@@ -36,13 +36,24 @@
           <input type="submit" value="Upload File">
         </form>
       <br>
-      <h3 id="php-title">Have questions? Contact us :)</h3>
+      <h3 id="php-title">Wanna stay in touch? Send us your email! </h3>
       <form action="welcome.php" method="post">
         Name: <input id="email-form" type="text" name="name"><br>
         E-mail: <input id="email-form" type="text" name="email"><br>
         <input type="submit">
       </form>
       <br>
+      <h3 id="php-title">Have questions? Contact us :)</h3>
+      <form action="mail.php" method="POST">
+        <p>Name</p> <input type="text" name="name">
+        <p>Email</p> <input type="text" name="email">
+        <p>Phone</p> <input type="text" name="phone">
+
+        <p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
+        <input type="submit" value="Send"><input type="reset" value="Clear">
+        </form>
+      <br>
       <php> echo "The time is " . date("h:i:sa");</php>
+
   </body>
  </html>
