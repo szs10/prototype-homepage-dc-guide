@@ -50,3 +50,8 @@ a {
   width:400px;
   height:280px;
 }
+
+#upload-title {
+  color: maroon;
+  font-family: palatino;
+}
