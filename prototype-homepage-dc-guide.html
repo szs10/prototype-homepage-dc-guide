@@ -29,11 +29,18 @@
   		  <a href="https://www1.lepainquotidien.com/us/en/">Learn more here</a>
       </ul>
       <br>
-      <h3 id="upload-title">Upload and share with us your favorite places in DC!</h3>
+      <h3 id="php-title">Upload and share with us your favorite places in DC!</h3>
         Select a file to upload:<br>
         <form action="uploader.php" method="post" enctype="multipart/form-data">
           <input type="file" name="file" size="45"><br>
           <input type="submit" value="Upload File">
         </form>
+      <br>
+      <h3 id="php-title">Have questions? Contact us :)</h3>
+      <form action="welcome.php" method="post">
+        Name: <input id="email-form" type="text" name="name"><br>
+        E-mail: <input id="email-form" type="text" name="email"><br>
+        <input type="submit">
+      </form>
   </body>
  </html>

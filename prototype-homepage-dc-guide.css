@@ -51,7 +51,11 @@ a {
   height:280px;
 }
 
-#upload-title {
+#php-title {
   color: maroon;
   font-family: palatino;
+}
+
+#email-form {
+  font-size: 15px;
 }
